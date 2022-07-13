@@ -1,3 +1,3 @@
 name: Home Assistant Bigmoby Add-ons
-url: https://github.com/bigmoby/hassio-repository-addon
+url: 'https://github.com/bigmoby/hassio-repository-addon'
 maintainer: Fabio Bigmoby Mauro <https://github.com/bigmoby>
